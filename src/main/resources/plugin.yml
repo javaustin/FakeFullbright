@@ -1,0 +1,14 @@
+name: FakeFullbright
+version: '1.0'
+main: com.carrotguy69.ffb.FakeFullbright
+api-version: '1.8'
+
+commands:
+  fullbright:
+    aliases: [ffb, fb]
+    usage: /ffb <on | off>
+    permission: "ffb.fullbright"
+
+permissions:
+  ffb.fullbright:
+    default: true
