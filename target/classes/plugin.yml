@@ -1,6 +1,6 @@
-name: FakeFullBright
+name: FakeFullbright
 version: '1.0'
-main: com.carrotguy69.ffb.FakeFullBright
+main: com.carrotguy69.ffb.FakeFullbright
 api-version: '1.8'
 
 commands:
