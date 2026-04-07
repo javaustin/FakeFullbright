@@ -10,10 +10,10 @@ Why install a fullbright mod or download a resource pack when you can support it
 - Allow or deny players' fullbright with the `ffb.fullbright` permission
 
 ## Installation
-1. Download the plugin jar by downloading `ffb-1.0.jar` from the `target` directory.
+1. Download the plugin jar by downloading `ffb-1.0.jar` from the `target` directory OR download directly from [Spigot](https://www.spigotmc.org/resources/fakefullbright.134065/).
 2. Place the .jar file into your server’s plugins directory.
 3. Restart your Minecraft server.
-4. Configure the plugin if needed by editing the generated config file in `plugins/ffb/config.yml`
+4. Configure the plugin if needed by editing the generated config file in `plugins/FakeFullbright/config.yml`.
 
 ## Configuration
 ```YML
@@ -22,6 +22,9 @@ messages:
   ffb-enabled: "&aFullbright enabled!"
   ffb-disabled: "&aFullbright disabled!"
 ```
+
+## Spigot Page
+https://www.spigotmc.org/resources/fakefullbright.134065/
 
 ## Demo
 ![Demo](https://i.imgur.com/QUkN0Ah.gif)
